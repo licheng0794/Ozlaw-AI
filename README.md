@@ -1,7 +1,5 @@
 # ⚖️ OzLaw AI: AI-Powered Australian Legal Assistant
 
-![OzLaw AI Demo](resultdemo.png)
-
 > _Bridging the Gap Between Australians and Legal Access_
 
 **OzLaw AI** is a free, open-source, people-centric initiative designed to make Australian legal guidance accessible to everyone. Using **AI-powered Retriever-Augmented Generation (RAG)**, OzLaw AI delivers quick, accurate legal support tailored to your needs—whether you’re a layperson or a professional.
@@ -111,6 +109,9 @@ We welcome contributors! Whether you want to help with development, report issue
 
 **OzLaw AI** is more than just an AI tool—it's a movement to democratize access to legal knowledge for all Australians.  
 Together, let’s make justice truly accessible! ✨
+
+---
+![OzLaw AI Demo](resultdemo.png)
 
 ---
 
