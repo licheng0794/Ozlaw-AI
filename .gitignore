@@ -1,0 +1,19 @@
+# Ignore RTF files
+*.rtf
+
+# Ignore environment files
+.env
+
+# Python/OS/IDE
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+.DS_Store 

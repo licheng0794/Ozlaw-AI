@@ -1,0 +1,10 @@
+Django>=4.2
+chromadb
+langchain
+langchain-community
+openai
+pdfminer.six
+PyPDF2
+beautifulsoup4
+python-dotenv
+striprtf 
